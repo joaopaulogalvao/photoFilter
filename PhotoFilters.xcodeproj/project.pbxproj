@@ -14,6 +14,7 @@
 		6C0F706A1B1CB75700798D63 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C0F70691B1CB75700798D63 /* Images.xcassets */; };
 		6C0F706D1B1CB75700798D63 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C0F706B1B1CB75700798D63 /* LaunchScreen.xib */; };
 		6C0F70791B1CB75700798D63 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C0F70781B1CB75700798D63 /* PhotoFiltersTests.swift */; };
+		6C0F70831B1CD07300798D63 /* o-COFFEE-TEA-TASTE-facebook.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6C0F70821B1CD07300798D63 /* o-COFFEE-TEA-TASTE-facebook.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		6C0F70721B1CB75700798D63 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C0F70771B1CB75700798D63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C0F70781B1CB75700798D63 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		6C0F70821B1CD07300798D63 /* o-COFFEE-TEA-TASTE-facebook.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "o-COFFEE-TEA-TASTE-facebook.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		6C0F705C1B1CB75700798D63 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				6C0F70821B1CD07300798D63 /* o-COFFEE-TEA-TASTE-facebook.jpg */,
 				6C0F705F1B1CB75700798D63 /* AppDelegate.swift */,
 				6C0F70641B1CB75700798D63 /* ViewController.swift */,
 				6C0F70661B1CB75700798D63 /* Main.storyboard */,
@@ -197,6 +200,7 @@
 			files = (
 				6C0F70681B1CB75700798D63 /* Main.storyboard in Resources */,
 				6C0F706D1B1CB75700798D63 /* LaunchScreen.xib in Resources */,
+				6C0F70831B1CD07300798D63 /* o-COFFEE-TEA-TASTE-facebook.jpg in Resources */,
 				6C0F706A1B1CB75700798D63 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
